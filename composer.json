@@ -1,0 +1,18 @@
+{
+    "name": "miviskin/php-test-task-satom",
+    "description": "Test task",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "miviskin",
+            "email": "miviskin@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Miviskin\\": "./"
+        }
+    },
+    "require": {}
+}
